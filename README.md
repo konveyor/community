@@ -2,3 +2,7 @@ This page is meant to hold community documentation for community members. If the
 
 ### Website
 * [Editing the website](/website.md)
+
+
+### Repositories
+* [Requesting repositories](/repositories.md)
