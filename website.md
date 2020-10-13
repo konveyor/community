@@ -1,7 +1,7 @@
 
 ### Updating web page content
 
-The Konveyor community site is built using Jekyll. The source code is in the [konveyor.github.io](https://github.com/konveyor/konveyor.github.io) repository. In order to update the meetup page you will need to be added as a  maintaner. If you need access you can request it on #Konevyor on the [Kubernetes Slack](http://k8s.slack.io). 
+The Konveyor community site is built using Jekyll. The source code is in the [konveyor.github.io](https://github.com/konveyor/konveyor.github.io) repository. In order to update the meetup page you will need to be added as a  maintaner. If you need access you can request it on #Konevyor on the [Kubernetes Slack](http://slack.k8s.io). 
 
 Once you have access, you can edit the following pages to change the content
 
