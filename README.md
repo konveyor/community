@@ -6,3 +6,6 @@ This page is meant to hold community documentation for community members. If the
 
 ### Repositories
 * [Requesting repositories](/repositories.md)
+
+### Sprints
+* [Sprint Review and Planning](sprints.md)
