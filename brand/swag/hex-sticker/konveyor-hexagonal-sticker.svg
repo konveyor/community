@@ -1,0 +1,544 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="80mm"
+   height="90mm"
+   id="svg4971"
+   version="1.1"
+   inkscape:version="0.92.4 (unknown)"
+   viewBox="0 0 283.46455 318.89761"
+   sodipodi:docname="1D45xHiuIWv27iyRlqoTt7x-h4m69xn8P.svg"
+   inkscape:export-filename="/home/tigert/SparkleShare/doing/community-stickers/RDO/hexspec-sticker-RDO-mockup.png"
+   inkscape:export-xdpi="152.39999"
+   inkscape:export-ydpi="152.39999">
+  <defs
+     id="defs4973" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2"
+     inkscape:cx="93.875315"
+     inkscape:cy="179.02321"
+     inkscape:document-units="px"
+     inkscape:current-layer="g6516"
+     showgrid="false"
+     fit-margin-top="5"
+     fit-margin-left="5"
+     fit-margin-right="5"
+     fit-margin-bottom="5"
+     units="mm"
+     inkscape:window-width="2560"
+     inkscape:window-height="1376"
+     inkscape:window-x="1920"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:snap-page="true"
+     inkscape:snap-bbox="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:bbox-nodes="true"
+     inkscape:bbox-paths="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:object-paths="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:object-nodes="true"
+     inkscape:snap-midpoints="true"
+     inkscape:snap-global="false" />
+  <metadata
+     id="metadata4976">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer8"
+     inkscape:label="Sticker Constructor Spec link"
+     sodipodi:insensitive="true"
+     style="display:inline">
+    <text
+       id="text6679"
+       y="312.5506"
+       x="31.293211"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:Overpass;-inkscape-font-specification:'Overpass, Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.99999952px;line-height:10;font-family:Overpass;-inkscape-font-specification:'Overpass Light';text-align:start;text-anchor:start"
+         y="312.5506"
+         x="31.293211"
+         id="tspan6681"
+         sodipodi:role="line">This template follows the Sticker Construcor Spec (https://github.com/terinjokes/StickerConstructorSpec)</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer6"
+     inkscape:label="Artwork"
+     style="display:inline"
+     transform="translate(0,63.779524)">
+    <g
+       inkscape:groupmode="layer"
+       id="layer3"
+       inkscape:label="Background"
+       style="display:inline"
+       transform="translate(11.601118,75.401606)">
+      <path
+         inkscape:transform-center-y="-2.3521534e-05"
+         d="m 161.99998,116.99997 c -0.9,1.55885 -76.142279,45 -77.942279,45 -1.8,0 -77.0422799,-43.44115 -77.9422798,-45 -0.8999999,-1.55884 -0.8999996,-88.441144 4e-7,-89.999989 0.8999999,-1.558846 76.1422804,-44.999996 77.9422804,-44.999996 1.799999,0 77.042278,43.441151 77.942278,44.999996 0.9,1.558846 0.9,88.441149 0,89.999989 z"
+         inkscape:randomized="0"
+         inkscape:rounded="0.02"
+         inkscape:flatsided="true"
+         sodipodi:arg2="1.0471976"
+         sodipodi:arg1="0.52359878"
+         sodipodi:r2="77.942284"
+         sodipodi:r1="89.999992"
+         sodipodi:cy="71.999977"
+         sodipodi:cx="84.057701"
+         sodipodi:sides="6"
+         id="path13015"
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#333481;fill-opacity:1;fill-rule:nonzero;stroke:#cf5900;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         sodipodi:type="star"
+         transform="matrix(1.0625547,0,0,1.0627935,40.815243,-38.536904)" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer4"
+       inkscape:label="logos"
+       style="display:inline"
+       transform="translate(11.601118,75.401606)">
+      <g
+         transform="matrix(1.6958126,0,0,1.6958126,-135.41129,-385.0956)"
+         id="g7804">
+        <g
+           id="g7950"
+           transform="matrix(2.228945,0,0,2.228945,-174.09093,-322.14175)">
+          <rect
+             ry="0"
+             rx="0"
+             y="252.20959"
+             x="141.0497"
+             height="1.984375"
+             width="5.0932293"
+             id="rect7778"
+             style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.37795279;paint-order:markers fill stroke" />
+          <rect
+             style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.37795279;paint-order:markers fill stroke"
+             id="rect7780"
+             width="5.0932293"
+             height="1.984375"
+             x="150.57472"
+             y="252.20959"
+             rx="0"
+             ry="0" />
+          <rect
+             ry="0"
+             rx="0"
+             y="243.14758"
+             x="145.74614"
+             height="1.984375"
+             width="5.0932293"
+             id="rect7782"
+             style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.37795279;paint-order:markers fill stroke" />
+          <path
+             style="color:#000000;overflow:visible;opacity:1;vector-effect:none;fill:#ac9565;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.22585751;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+             d="m 144.25631,242.49528 c -0.11637,0 -0.21032,0.094 -0.21032,0.21032 v 8.20002 c 0,0.11636 0.094,0.2098 0.21032,0.2098 h 8.20002 c 0.11636,0 0.21032,-0.0934 0.21032,-0.2098 v -8.20002 c 0,-0.11636 -0.094,-0.21032 -0.21032,-0.21032 z m 3.05563,1.16272 h 2.08876 c 0.1882,0 0.33951,0.15131 0.33951,0.33951 0,0.18821 -0.15131,0.33952 -0.33951,0.33952 h -2.08876 c -0.18821,0 -0.33952,-0.15131 -0.33952,-0.33952 0,-0.1882 0.15131,-0.33951 0.33952,-0.33951 z m -7.76697,8.05067 c -0.11637,0 -0.20981,0.094 -0.20981,0.21032 v 8.20002 c 0,0.11636 0.0934,0.21032 0.20981,0.21032 h 8.20053 c 0.11636,0 0.20981,-0.094 0.20981,-0.21032 v -8.20002 c 0,-0.11636 -0.0934,-0.21032 -0.20981,-0.21032 z m 9.42268,0 c -0.11637,0 -0.21032,0.094 -0.21032,0.21032 v 8.20002 c 0,0.11636 0.094,0.21032 0.21032,0.21032 h 8.20002 c 0.11636,0 0.2098,-0.094 0.2098,-0.21032 v -8.20002 c 0,-0.11636 -0.0934,-0.21032 -0.2098,-0.21032 z m -6.36654,1.16272 h 2.08825 c 0.1882,0 0.34003,0.15131 0.34003,0.33951 0,0.18821 -0.15183,0.33952 -0.34003,0.33952 h -2.08825 c -0.1882,0 -0.34003,-0.15131 -0.34003,-0.33952 0,-0.1882 0.15183,-0.33951 0.34003,-0.33951 z m 9.42217,0 h 2.08876 c 0.1882,0 0.33951,0.15131 0.33951,0.33951 0,0.18821 -0.15131,0.33952 -0.33951,0.33952 h -2.08876 c -0.18821,0 -0.34003,-0.15131 -0.34003,-0.33952 0,-0.1882 0.15182,-0.33951 0.34003,-0.33951 z"
+             id="path7784"
+             inkscape:connector-curvature="0" />
+        </g>
+        <g
+           transform="translate(104.29137,84.666671)"
+           style="fill:#ffffff"
+           id="g7802">
+          <path
+             style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.63935494;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+             d="m 27.732234,175.75993 c -3.167626,0 -5.763897,2.59627 -5.763897,5.76389 0,3.16765 2.596271,5.76349 5.763897,5.76349 3.167648,0 5.763897,-2.59584 5.763897,-5.76349 0,-3.16762 -2.596249,-5.76389 -5.763897,-5.76389 z m 0,2.63951 c 1.741224,0 3.124407,1.38316 3.124407,3.12438 0,1.74125 -1.383183,3.12441 -3.124407,3.12441 -1.741224,0 -3.124385,-1.38316 -3.124385,-3.12441 0,-1.74122 1.383161,-3.12438 3.124385,-3.12438 z"
+             id="path7786"
+             inkscape:connector-curvature="0" />
+          <path
+             d="m 14.236107,186.43228 v -9.8172 h 2.696268 v 3.7333 l 2.986652,-3.7333 h 3.041939 l -3.567376,4.39699 3.816267,5.42021 h -3.097248 l -2.43356,-3.60886 -0.746674,0.77432 v 2.83454 z"
+             style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:64.0488205px;line-height:1.25;font-family:Raleway;-inkscape-font-specification:'Raleway Heavy';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.34567592"
+             id="path7788"
+             inkscape:connector-curvature="0" />
+          <path
+             d="m 37.033673,181.60664 v 4.82564 h -2.69629 v -9.8172 h 2.101727 l 3.940703,4.99156 v -4.99156 h 2.696268 v 9.8172 h -2.143198 z"
+             style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:64.0488205px;line-height:1.25;font-family:Raleway;-inkscape-font-specification:'Raleway Heavy';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.34567592"
+             id="path7790"
+             inkscape:connector-curvature="0" />
+          <path
+             d="m 46.657273,176.61508 1.921962,6.42957 1.894306,-6.42957 h 2.834541 l -3.608848,9.8172 h -2.239999 l -3.650319,-9.8172 z"
+             style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:64.0488205px;line-height:1.25;font-family:Raleway;-inkscape-font-specification:'Raleway Heavy';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.34567592"
+             id="path7792"
+             inkscape:connector-curvature="0" />
+          <path
+             d="m 61.051214,184.08169 v 2.35059 h -6.99648 v -9.8172 h 6.872024 v 2.3506 h -4.175756 v 1.3827 h 3.567376 v 2.18467 h -3.567376 v 1.54864 z"
+             style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:64.0488205px;line-height:1.25;font-family:Raleway;-inkscape-font-specification:'Raleway Heavy';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.34567592"
+             id="path7794"
+             inkscape:connector-curvature="0" />
+          <path
+             d="m 64.30053,176.61508 1.756034,4.2449 1.797526,-4.2449 h 2.931321 l -3.387611,6.56785 v 3.24935 h -2.682451 v -3.27701 l -3.332323,-6.54019 z"
+             style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:64.0488205px;line-height:1.25;font-family:Raleway;-inkscape-font-specification:'Raleway Heavy';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.34567592"
+             id="path7796"
+             inkscape:connector-curvature="0" />
+          <path
+             d="m 82.15587,186.43228 v -9.8172 h 4.507611 q 0.719019,0 1.327398,0.3042 0.60838,0.29036 1.037036,0.77431 0.442452,0.47013 0.691343,1.09234 0.248892,0.60838 0.248892,1.2306 0,0.85729 -0.373326,1.60394 -0.373348,0.73284 -1.037036,1.20295 l 2.07405,3.60886 h -3.041939 l -1.728379,-3.0143 h -1.009382 v 3.0143 z m 2.696268,-5.3649 h 1.700725 q 0.248891,0 0.456289,-0.27652 0.221237,-0.27655 0.221237,-0.77433 0,-0.5116 -0.248891,-0.77431 -0.24887,-0.27654 -0.497761,-0.27654 h -1.631599 z"
+             style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:64.0488205px;line-height:1.25;font-family:Raleway;-inkscape-font-specification:'Raleway Heavy';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.34567592"
+             id="path7798"
+             inkscape:connector-curvature="0" />
+          <path
+             style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.63935494;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+             d="m 75.651884,175.75993 c -3.167627,0 -5.763897,2.59627 -5.763897,5.76389 0,3.16765 2.59627,5.76349 5.763897,5.76349 3.167648,0 5.763897,-2.59584 5.763897,-5.76349 0,-3.16762 -2.596249,-5.76389 -5.763897,-5.76389 z m 0,2.63951 c 1.741224,0 3.124406,1.38316 3.124406,3.12438 0,1.74125 -1.383182,3.12441 -3.124406,3.12441 -1.741224,0 -3.124385,-1.38316 -3.124385,-3.12441 0,-1.74122 1.383161,-3.12438 3.124385,-3.12438 z"
+             id="path7800"
+             inkscape:connector-curvature="0" />
+        </g>
+      </g>
+    </g>
+    <g
+       transform="matrix(0.81937622,0,0,0.80894336,185.25026,209.08965)"
+       id="g6516">
+      <rect
+         y="25.086193"
+         x="93.172737"
+         height="10.196752"
+         width="10.524518"
+         id="rect6518"
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#333481;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.22828531;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:6.5;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         rx="1.2361803"
+         ry="1.2361803" />
+      <text
+         id="text6520"
+         y="33.672577"
+         x="90.23661"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:Overpass;-inkscape-font-specification:'Overpass, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:10;font-family:Overpass;-inkscape-font-specification:Overpass;text-align:end;text-anchor:end"
+           y="33.672577"
+           x="90.23661"
+           id="tspan6522"
+           sodipodi:role="line">Pantone 072</tspan></text>
+    </g>
+    <g
+       id="g6777"
+       transform="matrix(0.81937622,0,0,0.80894336,185.25026,199.08965)" />
+    <text
+       transform="scale(1.0064278,0.99361326)"
+       id="text6520-9"
+       y="237.61806"
+       x="11.968278"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:Overpass;-inkscape-font-specification:'Overpass, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.99999905px;line-height:10;font-family:Overpass;-inkscape-font-specification:Overpass;text-align:start;text-anchor:start"
+         y="237.61806"
+         x="11.968278"
+         id="tspan6522-4"
+         sodipodi:role="line">Sticker design</tspan></text>
+    <g
+       transform="translate(-0.50028402,-15.160746)"
+       id="g8939"
+       style="display:inline;fill:#d3d7cf">
+      <text
+         transform="scale(1.0064278,0.99361326)"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:Overpass;-inkscape-font-specification:'Overpass, Bold';text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;display:inline;fill:#babdb6;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="268.49152"
+         y="8.7892656"
+         id="text8921"><tspan
+           id="tspan8929"
+           sodipodi:role="line"
+           x="268.49152"
+           y="8.7892656"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.49999905px;line-height:120.00000477%;font-family:Overpass;-inkscape-font-specification:Overpass;text-align:end;text-anchor:end;fill:#babdb6">Includes 1.5mm of</tspan><tspan
+           id="tspan8933"
+           sodipodi:role="line"
+           x="270.254"
+           y="17.789265"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.49999905px;line-height:120.00000477%;font-family:Overpass;-inkscape-font-specification:Overpass;text-align:end;text-anchor:end;fill:#babdb6">bleed outside the </tspan><tspan
+           id="tspan8935"
+           sodipodi:role="line"
+           x="268.49152"
+           y="26.789265"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.49999905px;line-height:120.00000477%;font-family:Overpass;-inkscape-font-specification:Overpass;text-align:end;text-anchor:end;fill:#babdb6">die-cut shape</tspan></text>
+      <path
+         inkscape:connector-curvature="0"
+         id="path8937"
+         d="M 212.58178,28.394201 190.99571,48.984353"
+         style="fill:#d3d7cf;fill-rule:evenodd;stroke:#babdb6;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         sodipodi:nodetypes="cc" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="Mockup Preview"
+     style="display:none"
+     transform="translate(0,63.779524)">
+    <path
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433069;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       d="m 141.73225,6.5938154 c -2.13584,0 -91.41644,51.5467686 -92.484359,53.3964586 -1.06792,1.8497 -1.06792,104.941296 0,106.790996 1.067919,1.84969 90.348519,53.39647 92.484359,53.39647 2.13584,0 91.41643,-51.54678 92.48435,-53.39647 1.06792,-1.8497 1.06792,-104.941296 0,-106.790996 -1.06792,-1.84969 -90.34851,-53.3964586 -92.48435,-53.3964586 z m 0,16.9687376 c 1.79645,0 76.89081,43.35632 77.78904,44.91209 0.89822,1.55578 0.89822,88.266467 0,89.822247 -0.89823,1.55578 -75.99259,44.9121 -77.78904,44.9121 -1.79646,0 -76.890824,-43.35632 -77.789051,-44.9121 -0.898227,-1.55578 -0.898227,-88.266467 0,-89.822247 0.898227,-1.55577 75.992591,-44.91209 77.789051,-44.91209 z"
+       id="path5560"
+       inkscape:connector-curvature="0" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer9"
+       inkscape:label="Mockup warning"
+       style="display:none">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:Overpass;-inkscape-font-specification:'Overpass, Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#f01b24;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="66.515068"
+         y="31.958565"
+         id="text9047"
+         transform="rotate(-7.6485149)"><tspan
+           sodipodi:role="line"
+           id="tspan9049"
+           x="66.515068"
+           y="31.958565"
+           style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:29.93144798px;line-height:100%;font-family:Overpass;-inkscape-font-specification:'Overpass Ultra-Light';fill:#f01b24">MOCKUP</tspan><tspan
+           sodipodi:role="line"
+           x="66.515068"
+           y="53.160011"
+           id="tspan9051"
+           style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:18.29144859px;line-height:100%;font-family:Overpass;-inkscape-font-specification:'Overpass Ultra-Light';fill:#f01b24">DO NOT PRINT</tspan></text>
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Die-Cut Shape"
+     style="display:none"
+     transform="translate(11.601118,139.18113)">
+    <path
+       sodipodi:type="star"
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ff00ff;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:6.5;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="path12865-6"
+       sodipodi:sides="6"
+       sodipodi:cx="130.13115"
+       sodipodi:cy="37.984207"
+       sodipodi:r1="89.822784"
+       sodipodi:r2="77.788818"
+       sodipodi:arg1="0.52359878"
+       sodipodi:arg2="1.0471976"
+       inkscape:flatsided="true"
+       inkscape:rounded="0.02"
+       inkscape:randomized="0"
+       d="m 207.91996,82.8956 c -0.89823,1.555776 -75.99236,44.91139 -77.78881,44.91139 -1.79646,0 -76.890586,-43.355615 -77.788814,-44.911391 -0.898228,-1.555776 -0.898228,-88.2670081 0,-89.8227844 0.898228,-1.5557763 75.992354,-44.9113916 77.788814,-44.9113916 1.79646,0 76.89058,43.355616 77.78881,44.9113923 0.89823,1.5557763 0.89823,88.2670077 0,89.8227847 z"
+       inkscape:transform-center-y="-6.0319465e-05" />
+    <g
+       id="g6511"
+       transform="matrix(0.81937622,0,0,0.80894336,-8.3508622,128.19124)">
+      <rect
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ff00ff;stroke-width:1.22828531;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:6.5;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         id="rect8408"
+         width="10.524518"
+         height="10.196752"
+         x="12.623648"
+         y="31.26709"
+         rx="1.3907028"
+         ry="1.3907028" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:Overpass;-inkscape-font-specification:'Overpass, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="27.010113"
+         y="39.853477"
+         id="text6468"><tspan
+           sodipodi:role="line"
+           id="tspan6470"
+           x="27.010113"
+           y="39.853477"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:10;font-family:Overpass;-inkscape-font-specification:Overpass;text-align:start;text-anchor:start">Die-cut shape</tspan></text>
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer7"
+     inkscape:label="Template text"
+     transform="translate(0,63.779524)"
+     style="display:inline">
+    <g
+       transform="matrix(0.49573799,0,0,0.48029921,-95.168213,-243.87935)"
+       style="font-style:normal;font-weight:normal;font-size:14.63270473px;line-height:521.00000381%;font-family:Sans;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="text8536" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:Overpass;-inkscape-font-specification:'Overpass, Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="11.882929"
+       y="-35.146515"
+       id="text5673"><tspan
+         sodipodi:role="line"
+         id="tspan5675"
+         x="11.882929"
+         y="-35.146515"
+         style="font-size:17.49999809px;line-height:10;text-align:start;text-anchor:start">HEX STICKER TEMPLATE</tspan></text>
+    <text
+       id="text6526"
+       y="-19.146523"
+       x="11.882929"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:Overpass;-inkscape-font-specification:'Overpass, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:10;font-family:Overpass;-inkscape-font-specification:Overpass;text-align:start;text-anchor:start"
+         y="-19.146523"
+         x="11.882929"
+         id="tspan6528"
+         sodipodi:role="line">Project XYZ</tspan></text>
+    <g
+       style="display:inline"
+       id="g4595"
+       transform="matrix(1.2367578,0,0,-1.2367578,1.01529,757.52686)">
+      <path
+         inkscape:connector-curvature="0"
+         id="path470"
+         style="fill:none;stroke:#babdb6;stroke-width:1.01070714;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 210.14,593.273 -11.002,0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path472"
+         style="fill:none;stroke:#babdb6;stroke-width:1.01070714;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 210.14,449.273 -11.002,0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path474"
+         style="fill:none;stroke:#babdb6;stroke-width:1.01070714;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 204.639,449.273 0,144" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path476"
+         style="fill:#babdb6;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         d="m 204.639,455.424 3.549,0 -1.774,-3.076 -1.775,-3.075 -1.776,3.075 -1.773,3.076 3.549,0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path478"
+         style="fill:#babdb6;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         d="m 204.639,587.124 -3.549,0 1.773,3.076 1.776,3.073 1.775,-3.073 1.774,-3.076 -3.549,0" />
+    </g>
+    <text
+       transform="matrix(0,-1.0064278,0.99361326,0,0,0)"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:Overpass;-inkscape-font-specification:'Overpass, Bold';text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;display:inline;fill:#babdb6;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-100.59196"
+       y="251.75206"
+       id="text8921-9"><tspan
+         id="tspan8935-7"
+         sodipodi:role="line"
+         x="-100.59196"
+         y="251.75206"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.49999905px;line-height:120.00000477%;font-family:Overpass;-inkscape-font-specification:Overpass;text-align:end;text-anchor:end;fill:#babdb6">5.08 cm</tspan></text>
+    <g
+       id="g4352"
+       style="fill:#babdb6"
+       transform="translate(621.87508,-9.6042041)">
+      <text
+         id="text5673-1"
+         y="-25.259447"
+         x="-312.87131"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:Overpass;-inkscape-font-specification:'Overpass, Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#babdb6;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-size:17.49999809px;line-height:120.00000477%;text-align:start;text-anchor:start;fill:#babdb6"
+           y="-25.259447"
+           x="-312.87131"
+           id="tspan5675-3"
+           sodipodi:role="line">Instructions</tspan><tspan
+           id="tspan4309"
+           style="font-size:17.49999809px;line-height:120.00000477%;text-align:start;text-anchor:start;fill:#babdb6"
+           y="-4.2594485"
+           x="-312.87131"
+           sodipodi:role="line"> </tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:Overpass;-inkscape-font-specification:'Overpass, Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#babdb6;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="-312.87131"
+         y="-5.259449"
+         id="text4311"><tspan
+           sodipodi:role="line"
+           id="tspan4313"
+           x="-312.87131"
+           y="-5.259449"
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:9.99999905px;line-height:120.00000477%;font-family:Overpass;-inkscape-font-specification:'Overpass Light';text-align:start;text-anchor:start;fill:#babdb6">Note that the background contains two objects, where one</tspan><tspan
+           sodipodi:role="line"
+           x="-312.87131"
+           y="6.7405505"
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:9.99999905px;line-height:120.00000477%;font-family:Overpass;-inkscape-font-specification:'Overpass Light';text-align:start;text-anchor:start;fill:#babdb6"
+           id="tspan4378">is larger and thus forming a border around the other one. </tspan><tspan
+           sodipodi:role="line"
+           x="-312.87131"
+           y="18.740549"
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:9.99999905px;line-height:120.00000477%;font-family:Overpass;-inkscape-font-specification:'Overpass Light';text-align:start;text-anchor:start;fill:#babdb6"
+           id="tspan4385">They can be filled with the same color if you want to avoid</tspan><tspan
+           sodipodi:role="line"
+           x="-312.87131"
+           y="30.740549"
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:9.99999905px;line-height:120.00000477%;font-family:Overpass;-inkscape-font-specification:'Overpass Light';text-align:start;text-anchor:start;fill:#babdb6"
+           id="tspan4387">having a border on your design. The border area also serves</tspan><tspan
+           sodipodi:role="line"
+           x="-312.87131"
+           y="42.740547"
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:9.99999905px;line-height:120.00000477%;font-family:Overpass;-inkscape-font-specification:'Overpass Light';text-align:start;text-anchor:start;fill:#babdb6"
+           id="tspan4389">as a &quot;safety area&quot; for the die-cut, so try to avoid having any </tspan><tspan
+           sodipodi:role="line"
+           x="-312.87131"
+           y="54.740547"
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:9.99999905px;line-height:120.00000477%;font-family:Overpass;-inkscape-font-specification:'Overpass Light';text-align:start;text-anchor:start;fill:#babdb6"
+           id="tspan4391">significant design elements there.</tspan><tspan
+           sodipodi:role="line"
+           x="-312.87131"
+           y="66.740547"
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:9.99999905px;line-height:120.00000477%;font-family:Overpass;-inkscape-font-specification:'Overpass Light';text-align:start;text-anchor:start;fill:#babdb6"
+           id="tspan4368"> </tspan><tspan
+           sodipodi:role="line"
+           x="-312.87131"
+           y="78.740547"
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:9.99999905px;line-height:120.00000477%;font-family:Overpass;-inkscape-font-specification:'Overpass Light';text-align:start;text-anchor:start;fill:#babdb6"
+           id="tspan4371">To export <tspan
+   id="tspan4325"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Overpass;-inkscape-font-specification:Overpass;fill:#babdb6">design</tspan>, hide die-cut shape and mockup layers.</tspan><tspan
+           id="tspan4317"
+           sodipodi:role="line"
+           x="-312.87131"
+           y="90.740547"
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:9.99999905px;line-height:120.00000477%;font-family:Overpass;-inkscape-font-specification:'Overpass Light';text-align:start;text-anchor:start;fill:#babdb6">To export <tspan
+   id="tspan4327"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Overpass;-inkscape-font-specification:Overpass;fill:#babdb6">die-cut shape</tspan>, hide design and mockup layers.</tspan><tspan
+           id="tspan4319"
+           sodipodi:role="line"
+           x="-312.87131"
+           y="102.74055"
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:9.99999905px;line-height:120.00000477%;font-family:Overpass;-inkscape-font-specification:'Overpass Light';text-align:start;text-anchor:start;fill:#babdb6">To export <tspan
+   id="tspan4329"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Overpass;-inkscape-font-specification:Overpass;fill:#babdb6">mockup</tspan>, hide design and die-cut shape layers.</tspan><tspan
+           id="tspan4321"
+           sodipodi:role="line"
+           x="-312.87131"
+           y="114.74055"
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:9.99999905px;line-height:120.00000477%;font-family:Overpass;-inkscape-font-specification:'Overpass Light';text-align:start;text-anchor:start;fill:#babdb6"> </tspan><tspan
+           id="tspan4323"
+           sodipodi:role="line"
+           x="-312.87131"
+           y="126.74055"
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:9.99999905px;line-height:120.00000477%;font-family:Overpass;-inkscape-font-specification:'Overpass Light';text-align:start;text-anchor:start;fill:#babdb6">Use &quot;Save a Copy&quot; and select PDF format. On PDF options </tspan><tspan
+           id="tspan4350"
+           sodipodi:role="line"
+           x="-312.87131"
+           y="138.74054"
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:9.99999905px;line-height:120.00000477%;font-family:Overpass;-inkscape-font-specification:'Overpass Light';text-align:start;text-anchor:start;fill:#babdb6">make sure &quot;convert text to paths&quot; is selected.</tspan><tspan
+           sodipodi:role="line"
+           x="-312.87131"
+           y="150.74054"
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:9.99999905px;line-height:120.00000477%;font-family:Overpass;-inkscape-font-specification:'Overpass Light';text-align:start;text-anchor:start;fill:#babdb6"
+           id="tspan4315"> </tspan></text>
+    </g>
+  </g>
+</svg>
