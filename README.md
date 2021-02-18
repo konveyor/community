@@ -22,5 +22,6 @@ Each project within Konveyor maintains its own mailing list.
  * [Tackle development mailing list](https://groups.google.com/g/tackle-dev)
  * [Crane development mailing list](https://groups.google.com/g/crane-dev)
  * [Forklift development mailing list](https://groups.google.com/g/forklift-dev)
+ * [Move2Kube development mailing list](https://groups.google.com/g/move2kube-dev)
  
  Finally, you can join the team on slack at #konveyor on https://slack.k8s.io.
