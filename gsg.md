@@ -11,12 +11,12 @@ konveyor is a federation of sub-projects and as a community, reserves the right 
 
 Konveyor projects are strongly encouraged to use the Apache License 2.0, which has become the standard for Cloud Native tools.  Other licenses need specific authorization from Konveyor leadership.
 
-The proposed license for images, documentation and content in Konveyor projects is the Creative Commons Attribution-ShareAlike 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/). 
+The proposed license for images, documentation and content in Konveyor projects is the [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/). 
 
 ## Project on-boarding
 
 On-boarding is facilitated by a designated community representative. If your project is compelling and is a good fit for the konveyor community, please reach out to 
-konveyorio@googlegroups.com 
+konveyor-community@googlegroups.com 
 
 ## Meetups
 
