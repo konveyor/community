@@ -42,8 +42,7 @@ All active Maintainers of the project, as defined in the Konveyor Contributor La
 
 Additionally, the Maintainer Committee will select, by majority vote, one representative of the project to the Konveyor Steering Committee.  This representative need not be a member of the project's Maintainer Committee, and will be replaced or renewed by the Committee annually.
 
-Should a member of the Maintainer Committee cease being active in the project, vio
-late the Code Of Conduct, or need to be removed for some other reason, they may be removed by a 2/3 majority vote of the other Committee members, or a vote of the Steering Committee.
+Should a member of the Maintainer Committee cease being active in the project, violate the Code Of Conduct, or need to be removed for some other reason, they may be removed by a 2/3 majority vote of the other Committee members, or a vote of the Steering Committee.
 
 ## Konveyor Steering Committee
 
