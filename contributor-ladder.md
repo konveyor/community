@@ -131,16 +131,27 @@ It is important for contributors to be and stay active to set an example and sho
 
 Involuntary removal/demotion of a contributor happens when responsibilites and requirements aren't being met. This may include repeated pattern of inactivity, extended period of inactivity, and/or a violation of the Code of Conduct. This process is important because it protects the community and its deliverables while also opens up opportunities for new contributors to step in.
 
-Involuntary removal is handled by X. 
-
-<!-- add note on demotion -->
+Involuntary removal or demotion is handled by the community governence committe. 
 
 ## Stepping Down/Emeritus Process
 If and when contributors' committment levels change, contributors can consider stepping down (moving down the contributor ladder) vs moving to emeritus status (completely stepping away from the project). 
 
-Please reach out to X to discuss this process.
+Please reach out to the associated project lead(s) to discuss this process.
 
-## Contact
-* For inquiries, please reach out to:
+## Contacts
+* For community needs/issues please reach out to:
     *  James Labocki - jlabocki@redhat.com
     *  Brett Thurber - bthurber@redhat.com
+* Project leads:
+    * Crane
+        * John Matthews - jmatthew@redhat.com
+        * Erik Nelson - ernelson@redhat.com
+    * Forklift
+        * Fabien Dupont - fdupont@redhat.com
+    * Tackle
+        * Phil Cattanach - pcattana@redhat.com
+        * Marco Rizzi - mrizzi@redhat.com
+    * Pelorus
+        * Eric Sauer - esauer@redhat.com
+    * Move2kube
+        * Ashok Ponkumar - ashokponkumar@gmail.com
