@@ -75,9 +75,9 @@ An Organization Member must meet the responsibilites and has the requirements of
 The process for a Contributor to become an Organization Member is as follows:
 
 <!-- the process of becoming an organization member is going to depend strongly on how your project manages its infrastructure. TO DO: Project leads to fil in exact details of how a contributor becomes an organization member-->
-1. 
-2. 
-3. 
+* High skill for development and meaninful contribution to a project(s)
+* Demonstrates leadership capabilities 
+* Willing to mentor other contributors
 
 ### Reviewer
 <!--TODO: project leads to fill in exact details of this role for your project-->
@@ -96,9 +96,9 @@ Description: A reviewer approves pull requests before they're merged by maintain
 Description: A Maintainer is a contributor with commit access. Decisions and prioritizes about the project. Maintainer roles may include Community Managers, Project Managers, Release Managers, Docs Managers, and Subproject Lead. An Maintainer must meet the responsibilites and has the requirements of an Reviewer, plus:<!-- sometimes also a project lead - if so, please state in the role defintion -->
 
 * Criteria
-    * attitude,
-    * responsibility
-    * etc
+    * Willing to accept additional responsibilites
+    * Ability to keep commitments and follow-up
+    * Demonstrates project leadership
 
 #### Code Maintainer -> expansion pack
 * Criteria
