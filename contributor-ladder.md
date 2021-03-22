@@ -154,4 +154,4 @@ Please reach out to the associated project lead(s) to discuss this process.
     * Pelorus
         * Eric Sauer - esauer@redhat.com
     * Move2kube
-        * Ashok Ponkumar - ashokponkumar@gmail.com
+        * Ashok Pon Kumar Sree Prakash - ashokponkumar@gmail.com
