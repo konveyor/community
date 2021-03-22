@@ -50,7 +50,7 @@ An Organization Member must meet the responsibilites and has the requirements of
 
 * Responsibilities include: 
     * Continues to contribute regularly, as demonstrated by having at least [TODO: Number] [TODO: Metric] a year, as demonstrated by [TODO: contributor metrics source].
-<!-- Example: "as demonstrated by having at least 50 Github contributions per year, as shown by Devstats"-->
+<!-- Example: "as demonstrated by having at least 50 Github contributions to the organization per year, as shown by Devstats"-->
 
 * Requirements:
     * Must have successful contribitons to the project, including at least one of the following:
