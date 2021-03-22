@@ -49,7 +49,7 @@ Description: An Organization Member is an established contributor who regularly 
 An Organization Member must meet the responsibilites and has the requirements of a Contributor, plus:
 
 * Responsibilities include: 
-    * Continues to contribute regularly, as demonstrated by having at least [TODO: Number] [TODO: Metric] a year, as demonstrated by [TODO: contributor metrics source].
+    * Continues to contribute regularly, as demonstrated by having at least [TODO: Number] [TODO: Metric] to the organization per year, as demonstrated by [TODO: contributor metrics source].
 <!-- Example: "as demonstrated by having at least 50 Github contributions to the organization per year, as shown by Devstats"-->
 
 * Requirements:
