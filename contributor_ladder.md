@@ -93,11 +93,9 @@ An Project Member must meet the responsibilites and has the requirements of a Co
 
 
 The process for a Contributor to become a Project Member is as follows:
-
-<!-- the process of becoming an organization member is going to depend strongly on how your project manages its infrastructure. TO DO: Project leads to fil in exact details of how a contributor becomes an organization member-->
-1.
-2.
-
+1. Community and/or project leadership recognizes significant project contributions made and sponsors a project contributor to be promoted
+2. A new project is on-boarded requiring one or more project members
+3. An OWNERS_ALIAS file at the project level will track roles which can be updated by submitting a PR from an existing project member
 
 *Note: once a project has three or more Project Members who do not work for the same employer as the largest group of Project Members, sponsors must include at least one Member who does not work for the same employer as the nominee.*
 
