@@ -1,7 +1,6 @@
 ## Konveyor Governance
 
 The Konveyor project is composed as a consortium of individual projects, some independent and some interdependent, each of which focuses on some aspect of migrating applications and infrastructure to Kubernetes.  Our governance reflects this federated structure.
-> [applications and infrastructure to Kubernetes as part of the digital transformation journey.](/V58GR-aeRrWhxzJBxAo9tw)
 
 ## Individual Project Governance
 
@@ -9,7 +8,7 @@ Each individual project is permitted to have its own governance structure if the
 
 ## Contributor Participation
 
-Members, Reviewers, and Maintainers are defined in the Konveyor Contributor Ladder.  Each project will have its own Members, Reviewers, and Maintainers according to those criteria.  Members, Reviewers, and Maintainers of any project are also considered Members of the overall Konveyor umbrella project for governance purposes, but not for purposes of code repository permissions.  
+Members, Reviewers, and Maintainers are defined in the [Konveyor Contributor Ladder](https://github.com/konveyor/community/blob/main/contributor_ladder.md).  Each project will have its own Members, Reviewers, and Maintainers according to those criteria.  Members, Reviewers, and Maintainers of any project are also considered Members of the overall Konveyor umbrella project for governance purposes, but not for purposes of code repository permissions.  
 
 ### Governance Requirements
 
