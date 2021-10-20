@@ -1,6 +1,6 @@
 # Konveyor Governance Meeting
 
-Konveyor
+Konveyor provides application modernization tools to accelerate rehosting, replatforming, and refactoring workloads to Kubernetes and cloud-native technologies.
 
 ## Chairs
 Todd Sanders
