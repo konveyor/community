@@ -3,10 +3,10 @@
 Konveyor
 
 ## Chairs
-Todd Sanders, Phil Cattanach
+Todd Sanders
+Phil Cattanach
 
 ## Tech Leads
-John Matthews, Marco Rizzi
 
 ## Community
 
