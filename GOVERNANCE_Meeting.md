@@ -18,7 +18,7 @@ Phil Cattanach
 We have meetings every 1st and 3rd Thursday of the month at 9:00AM Eastern
 
 + Agenda and Notes: https://docs.google.com/document/d/1DJDco4-ialwVoB2yAP54dhFxw_2xPPJ6z6fBp66Yphg/edit# 
-+ Google Meeting: 
++ Google Meeting: https://meet.google.com/cbt-iwrq-gft?hs=122&authuser=0
 + Recordings of previous meetings: 
 
 ## Working Groups
