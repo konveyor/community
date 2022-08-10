@@ -4,6 +4,11 @@ This page lists all active members of the maintainers for **this**
 repository. Each repository in the [Konveyor organization](https://github.com/konveyor/) will
 list their repository maintainers in their own `OWNERS.md` file.
 
+
+Please see [GOVERNANCE.md](GOVERNANCE.md) for governance guidelines and responsibilities for the
+steering committee and maintainers.
+
+
 ## Maintainers
 
 * John Matthews	([jwmatthews](https://github.com/jwmatthews)) 
