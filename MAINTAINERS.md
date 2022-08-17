@@ -16,7 +16,7 @@ The initial steering team is bootrapped from the maintainers list below,
 * Jonathan Recinos	([JonathanR19](https://github.com/JonathanR19))
 * Ramon Roman Nissen	([rromannissen](https://github.com/rromannissen))
 * Savitha Raghunathan	([savitharaghunathan](https://github.com/savitharaghunathan))
-* Tam Nguyen		
+* Tam Nguyen		([tamintheclouds](https://github.com/tamintheclouds))
 * Todd Sanders		([tsanders-rh](https://github.com/tsanders-rh))
 
 
