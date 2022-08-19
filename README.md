@@ -37,6 +37,10 @@ Each project within Konveyor maintains its own mailing list.
  
 ## Community Meeting
 
+Konveyor community meets on 1st & 3rd Thursdays of every month.
+* [Agenda](https://docs.google.com/document/d/18vsvW8aO1iJqCXUCi-X2_PjfzuSVE5Ue3vgxlTYl10g/edit)
+* [Meeting link](https://meet.google.com/jmn-poqi-evw)
+
 ## Code of Conduct
 Refer to our [Code of Conduct page](https://github.com/konveyor/community/blob/main/CODE_OF_CONDUCT.md) for detailed information
 
