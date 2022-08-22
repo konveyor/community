@@ -1,3 +1,5 @@
+[![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/6384/badge)](https://bestpractices.coreinfrastructure.org/projects/6384)
+
 # Konveyor Community
 
 Welcome to the Konveyor Community!
