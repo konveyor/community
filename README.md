@@ -1,19 +1,10 @@
-[![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/6384/badge)](https://bestpractices.coreinfrastructure.org/projects/6384)
+[![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/6384/badge)](https://bestpractices.coreinfrastructure.org/projects/6384) [![License](http://img.shields.io/:license-apache-blue.svg)](http://www.apache.org/licenses/LICENSE-2.0.html) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/konveyor/community/pulls)
 
 # Konveyor Community
 
 Welcome to the Konveyor Community!
 
-This page is meant to hold community documentation for community members.If there is a process that is valuable to community members you can add a page here and add it to the table of contents below.
-
-#### Website
-* [Editing the website](/website.md)
-
-#### Repositories
-* [Requesting repositories](/repositories.md)
-
-#### Sprints
-* [Sprint Review and Planning](sprints.md)
+This page is meant to hold community documentation for community members.
 
 ## Getting Started
 * [Getting Started](gsg.md)
