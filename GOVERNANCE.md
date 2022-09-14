@@ -6,6 +6,14 @@ The Konveyor project is composed as a consortium of individual projects, some in
 
 Each individual project is permitted to have its own governance structure if the maintainers of the project wish it, provided that its governance is "open" (defined below).  Should a project's members be ambivalent about governance, or join Konveyor with no governance in place, the project will adopt the "default governance" structure.
 
+## Community Groups
+
+Konveyor project consists of various Special Interest Groups AKA SIGs. Konveyor SIGs are based on Kubernetes SIGs. 
+
+### Special Interest Groups
+
+Each SIG in the Konveyor project pertains to advancing the project in a specific area, like Core components or UI. Each SIG will be led by two or three co-chairs. Initial bootstrapping of the SIGs will be led a chair appointed by the Konveyor Maintainers. As the members move through the contributor ladder, they will be eligible to be a co-chair after they have been a maintainer for 3-6 months. Konveyor steering committee will vote on the co-chair nominations.  
+
 ## Contributor Participation
 
 Members, Reviewers, and Maintainers are defined in the [Konveyor Contributor Ladder](https://github.com/konveyor/community/blob/main/contributor_ladder.md).  Each project will have its own Members, Reviewers, and Maintainers according to those criteria.  Members, Reviewers, and Maintainers of any project are also considered Members of the overall Konveyor umbrella project for governance purposes, but not for purposes of code repository permissions.  
