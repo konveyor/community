@@ -40,3 +40,5 @@ Refer to our [Code of Conduct page](https://github.com/konveyor/community/blob/m
 ## License
 
 Konveyor is under the Apache 2.0 license.
+
+pdating readme for test
