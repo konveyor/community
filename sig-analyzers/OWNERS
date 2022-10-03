@@ -1,0 +1,6 @@
+approvers:
+  - sig-analyzers-leads
+reviewers:
+  - sig-analyzers-leads
+labels:
+  - sig/analyzers
