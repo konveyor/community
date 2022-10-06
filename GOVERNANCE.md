@@ -12,7 +12,7 @@ Konveyor project consists of various Special Interest Groups AKA SIGs. Konveyor 
 
 ### Special Interest Groups
 
-Each SIG in the Konveyor project pertains to advancing the project in a specific area, like Core components or UI. Each SIG will be led by two or three co-chairs. Initial bootstrapping of the SIGs will be led a chair appointed by the Konveyor Maintainers. As the members move through the contributor ladder, they will be eligible to be a co-chair after they have been a maintainer for 3-6 months. Konveyor steering committee will vote on the co-chair nominations.  
+Each SIG in the Konveyor project pertains to advancing the project in a specific area, like Core components or UI. Each SIG will be led by two or three co-chairs. Initial bootstrapping of the SIGs will be led by a chair appointed by the Konveyor Maintainers. As the members move through the contributor ladder, they will be eligible to be a co-chair after they have been a maintainer for 3-6 months. Konveyor steering committee will vote on the co-chair nominations.  
 
 ## Contributor Participation
 

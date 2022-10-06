@@ -11,11 +11,9 @@ these guidelines:
 - Meet regularly, at least for 30 minutes every 3 weeks, except during holidays
 - Keep up-to-date meeting notes, linked from the SIG's page in the community
 repo
-- Record meetings and make them publicly available on the
-[Konveyor Community YouTube playlist](https://www.youtube.com/channel/UCQ3pW3gSBeCy0tj1J0ub2bw/playlists)  
 - Report activity with the community via the konveyor-community@googlegroups.com mailing list at
 least once a year. 
-  - Each SIG provides updates regularly on the Konveyor community meeting, atleast once a month.  
+- Each SIG provides updates regularly on the Konveyor community meeting, atleast once a month.  
 - Participate in release planning meetings and retrospectives, and burndown
 meetings, as needed
 - Ensure related work happens in a project-owned github org and repository, with
@@ -37,8 +35,8 @@ The process for setting up a SIG or Working Group (WG) is listed in the
 ### Notes on Roles
 
 Within this section "Lead" refers to someone who is a member of the union
- of a Chair, or Tech Lead role. Leads have specific decision making power over some
- part of a group and thus additional accountability. Each role is detailed below.  
+of a Chair, or Tech Lead role. Leads have specific decision making power over some
+part of a group and thus additional accountability. Each role is detailed below.  
 
 
 #### Activity Expectations  
@@ -78,20 +76,21 @@ amongst leads. This *SHOULD* be supported by a majority of SIG contributors.
   In addition, run operations and processes governing the SIG:
 
 - *SHOULD* define how priorities and commitments are managed and delegate to other leads as needed
-- *SHOULD* drive charter changes (including creation) to get community buy-in but *MAY* delegate content creation to SIG contributors
+- *SHOULD* drive charter changes (including creation) to get community buy-in 
+  but *MAY* delegate content creation to SIG contributors
 - *SHOULD* identify, track, and maintain the SIGs enhancements for current
-  release and serve as point of contact for the release communications, but *MAY* delegate
-   to another Lead to fulfill these responsibilities
-  - *MUST* organize a main group meeting and make sure the GH team is up to date
-  - *SHOULD* facilitate meetings but *MAY* delegate to other Leads or future
+  release and serve as point of contact for the release communications, 
+  but *MAY* delegate to another Lead to fulfill these responsibilities
+- *MUST* organize a main group meeting and make sure the GH team is up to date
+- *SHOULD* facilitate meetings but *MAY* delegate to other Leads or future
   chairs/chairs in training
-  - *MUST* ensure there is a maintained CONTRIBUTING.md document in the
+- *MUST* ensure there is a maintained CONTRIBUTING.md document in the
   appropriate SIG folder if the contributor experience or on-boarding knowledge
-  is different than in the general [contributor guide](https://github.com/konveyor/community/blob/main/CONTRIBUTING.md). *MAY* delegate to contributors to create or update
-  - *MUST* ensure meetings are recorded and made available
-  - *MUST* report activity with the community via konveyor-community mailing list
-  - *MUST* coordinate sponsored working group updates to the SIG and the wider
-  community  
+  is different than in the general [contributor guide](https://github.com/konveyor/community/blob/main/CONTRIBUTING.md). 
+  *MAY* delegate to contributors to create or update
+- *MUST* ensure meetings are recorded and made available
+- *MUST* report activity with the community via konveyor-community mailing list
+- *MUST* coordinate sponsored working group updates to the SIG and the wider community  
 - *MUST* coordinate communication and be a connector with other community
  groups like SIGs and the Steering Committee but *MAY* delegate the actual
  communication and creation of content to other contributors where
