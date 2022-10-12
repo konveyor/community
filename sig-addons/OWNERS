@@ -1,7 +1,6 @@
-#TODO: Add sig co-chairs & leads 
-
 approvers:
-  - <name>
-
+  - sig-addons-leads
 reviewers:
-  - <name>
+  - sig-addons-leads
+labels:
+  - sig/addons
