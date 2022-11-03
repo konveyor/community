@@ -17,11 +17,14 @@ Konveyor meetup invitations are sent to the [Konveyor mailing list](https://grou
 
 Community discussions take place on the [Konveyor-community mailing list](https://groups.google.com/g/konveyor-community).
 
-Each project within Konveyor maintains its own mailing list. 
- * [Tackle development mailing list](https://groups.google.com/g/tackle-dev)
- * [Crane development mailing list](https://groups.google.com/g/crane-dev)
- * [Forklift development mailing list](https://groups.google.com/g/forklift-dev)
- * [Move2Kube development mailing list](https://groups.google.com/g/move2kube-dev)
+Each SIG within Konveyor maintains its own mailing list. 
+|SIG |Mailing list|
+|:----|:----|
+|Core|https://groups.google.com/u/1/g/konveyor-core|
+|AddOns|https://groups.google.com/u/1/g/konveyor-addons|
+|Analyzers|https://groups.google.com/u/1/g/konveyor-analyzers|
+|UI|https://groups.google.com/u/1/g/konveyor-ui|
+ 
 
  Community communication is available on the following platforms:
  * Chat with us on [Slack](https://kubernetes.slack.com/archives/CR85S82A2)
@@ -30,7 +33,7 @@ Each project within Konveyor maintains its own mailing list.
  
 ## Community Meeting
 
-Konveyor community meets on 1st & 3rd Thursdays of every month.
+Konveyor community meets bi-weekly on Thursdays.
 * [Agenda](https://docs.google.com/document/d/18vsvW8aO1iJqCXUCi-X2_PjfzuSVE5Ue3vgxlTYl10g/edit)
 * [Meeting link](https://meet.google.com/jmn-poqi-evw)
 
