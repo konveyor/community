@@ -1,0 +1,11 @@
+aliases:
+  # Contributors who can approve any PRs in the repo
+  konveyor-community-approvers:
+  - jwmatthews
+  - savitharaghunathan
+  
+  # Contributors who can review and LGTM any PRs in the repo.
+  konveyor-community-reviewers:
+  - jwmatthews
+  - savitharaghunathan
+  - dzager
