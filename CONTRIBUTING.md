@@ -31,13 +31,14 @@ We welcome many different types of contributions including:
 * Documentation
 * Issue Triage
 * Answering questions on Slack/Mailing List
-* Web design
+* UI
 * Communications / Social Media / Blog Posts
 * Release management
 
 Not everything happens through a GitHub pull request. Please come to our
-[meetings](TODO) or [contact us](TODO) and let's discuss how we can work
-together. 
+[meetings](https://github.com/konveyor/community#community-meeting) or 
+[contact us](https://groups.google.com/u/1/g/konveyor-dev) 
+and let's discuss how we can work together. 
 
 ### Come to Meetings
 
@@ -45,8 +46,8 @@ Absolutely everyone is welcome to come to any of our meetings. You never need an
 invite to join us. In fact, we want you to join us, even if you don’t have
 anything you feel like you want to contribute. Just being there is enough!
 
-You can find out more about our meetings [here](TODO). You don’t have to turn on
-your video. The first time you come, introducing yourself is more than enough.
+You can find out more about our meetings [here](https://github.com/konveyor/community#community-meeting). 
+You don’t have to turn on your video. The first time you come, introducing yourself is more than enough.
 Over time, we hope that you feel comfortable voicing your opinions, giving
 feedback on others’ ideas, and even sharing your own ideas, and experiences.
 
@@ -60,7 +61,9 @@ your first pull request.
 
 Sometimes there won’t be any issues with these labels. That’s ok! There is
 likely still something for you to work on. If you want to contribute but you
-don’t know where to start or can't find a suitable issue, you can ⚠️ **explain how people can ask for an issue to work on**.
+don’t know where to start or can't find a suitable issue, 
+you can express your interest to contribute in our [slack channel](https://kubernetes.slack.com/archives/CR85S82A2). 
+One of the Konveyor Maintainers or leads will get in touch with you.
 
 Once you see an issue that you'd like to work on, please post a comment saying
 that you want to work on it. Something like "I want to work on this" is fine.
@@ -69,18 +72,9 @@ that you want to work on it. Something like "I want to work on this" is fine.
 
 The best way to reach us with a question when contributing is to ask on:
 
-⚠️ **Pick the way(s) that you prefer people ask for help**
-
 * The original github issue
-* The developer mailing list
-* Our Slack channel
-
-## Pull Request Lifecycle
-
-⚠️ **Explain your pull request process** TODO
-
-## Development Environment Setup
-Please refer to respective project's README for development environment process.
+* [The developer mailing list](https://groups.google.com/u/1/g/konveyor-dev)
+* [Our Slack channel](https://kubernetes.slack.com/archives/CR85S82A2)
 
 ## Sign Your Commits
 
@@ -107,16 +101,6 @@ If you forgot to do this and have not yet pushed your changes to the remote
 repository, you can amend your commit with the sign-off by running 
 
     git commit --amend -s 
-
-## Pull Request Checklist
-
-When you submit your pull request, or you push new commits to it, our automated
-systems will run some checks on your new code. We require that your pull request
-passes these checks, but we also have more criteria than just that before we can
-accept and merge it. We recommend that you check the following things locally
-before you submit your code:
-
-⚠️ **Create a checklist that authors should use before submitting a pull request** 
 
 ---
 This template has been taken from CNCF's contributing template and has been 
