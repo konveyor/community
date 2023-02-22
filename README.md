@@ -10,7 +10,7 @@ This page is meant to hold community documentation for community members.
 * [Getting Started](gsg.md)
 
 ## Governance
-Refer to our [governance doc](governance.md) for more information.
+Refer to our [governance doc](GOVERNANCE.md) for more information.
 
 ## Communication
 Konveyor meetup invitations are sent to the [Konveyor mailing list](https://groups.google.com/g/konveyorio).
