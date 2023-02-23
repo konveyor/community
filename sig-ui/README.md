@@ -12,7 +12,7 @@ Please join [mailing list](https://groups.google.com/u/1/g/konveyor-ui) to recei
 
 ## Contact
 
-- Slack: #konveyor
+- Slack: [#konveyor](https://kubernetes.slack.com/archives/CR85S82A2)
 - Mailing List: [konveyor-ui@googlegroups.com](https://groups.google.com/u/1/g/konveyor-ui)
 
 ## Projects
