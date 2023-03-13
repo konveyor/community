@@ -1,7 +1,7 @@
-Addons Special Interest Group
+Integrations Special Interest Group
 =============================
 
-SIG Addon's mission is to facilitate community contributions to
+SIG Integration's mission is to facilitate community contributions to
 Konveyor's functionality via addons by advocating for features in the
 [hub](https://github.com/konveyor/tackle2-hub), functionality in the [addon
 library](https://github.com/konveyor/tackle2-addon), and by demonstrating +
@@ -30,7 +30,7 @@ for tackle2-addon-jkube, it does not own the [jkube project](https://github.com/
 
 ## Meetings
 
-Please join the [mailing list](https://groups.google.com/g/konveyor-addons) to
+Please join the [mailing list](https://groups.google.com/g/konveyor-integration) to
 receive regular updates and the calendar invite to group meetings.
 
 - Analyzers SIG meeting (Bi-weekly): Thursdays at 11:30 ET
@@ -40,7 +40,7 @@ receive regular updates and the calendar invite to group meetings.
 ## Contact
 
 - Slack: [#konveyor](https://kubernetes.slack.com/archives/CR85S82A2)
-- Mailing List: [konveyor-addons@googlegroups.com](https://groups.google.com/g/konveyor-addons)
+- Mailing List: [konveyor-integration@googlegroups.com](https://groups.google.com/g/konveyor-integration)
 
 ## Projects
 
