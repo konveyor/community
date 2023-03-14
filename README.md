@@ -21,7 +21,7 @@ Each SIG within Konveyor maintains its own mailing list.
 |SIG |Mailing list|
 |:----|:----|
 |Core|https://groups.google.com/u/1/g/konveyor-core|
-|AddOns|https://groups.google.com/u/1/g/konveyor-addons|
+|Integration|https://groups.google.com/u/1/g/konveyor-integration|
 |Analyzers|https://groups.google.com/u/1/g/konveyor-analyzers|
 |UI|https://groups.google.com/u/1/g/konveyor-ui|
  
