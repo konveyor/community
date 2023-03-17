@@ -23,5 +23,5 @@ Please join [mailing list](https://groups.google.com/u/1/g/konveyor-core) to rec
 
 ### Cross-cutting
 
-- This SIG works with SIG UI, SIG Analyzers, and SIG Addons to improve the Konveyor platform.
+- This SIG works with SIG UI, SIG Analyzers, and SIG Integration to improve the Konveyor platform.
 
