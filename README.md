@@ -12,6 +12,35 @@ This page is meant to hold community documentation for community members.
 ## Governance
 Refer to our [governance doc](GOVERNANCE.md) for more information.
 
+## Meetings
+
+Konveyor has two kinds of meetings - User focussed & contributor focussed
+
+### Konveyor Community meetings
+
+**Konveyor Community meeting** is where the User focussed discussions happens. 
+The meeting highlights the enhancements that are in flight, showcases new and upcoming feature demos, 
+and encourages community participation through open discussions.
+
+If you are interested in joining us, please consider joining
+[Konveyor-community mailing list](https://groups.google.com/g/konveyor-community)
+for meeting invites. 
+
+Konveyor community meets bi-weekly on Thursdays.
+* [Agenda](https://docs.google.com/document/d/18vsvW8aO1iJqCXUCi-X2_PjfzuSVE5Ue3vgxlTYl10g/edit)
+* [Meeting link](https://meet.google.com/jmn-poqi-evw)
+
+### Konveyor SIG meetings
+
+Konveyor SIG meetings provides a place for the community to come together 
+and discuss in-depth technical details of the features that are being actively worked on.
+The meetings dedicate some time to traige through the issues and align current & future work with Konveyor Roadmap.
+These are the 4 SIGs of Konveyor and for more information regarding the SIGs follow the hyperlink - [Analyzers](https://github.com/konveyor/community/tree/main/sig-analyzers), 
+[Core](https://github.com/konveyor/community/tree/main/sig-core), 
+[Integration](https://github.com/konveyor/community/tree/main/sig-integration), 
+and [UI](https://github.com/konveyor/community/tree/main/sig-ui). 
+
+
 ## Communication
 Konveyor meetup invitations are sent to the [Konveyor mailing list](https://groups.google.com/g/konveyorio).
 
@@ -31,11 +60,6 @@ Each SIG within Konveyor maintains its own mailing list.
  * Discuss with us on the [konveyor Google Group](https://groups.google.com/g/konveyorio)
  * Follow us on [Twitter](https://twitter.com/Konveyor_io)
  
-## Community Meeting
-
-Konveyor community meets bi-weekly on Thursdays.
-* [Agenda](https://docs.google.com/document/d/18vsvW8aO1iJqCXUCi-X2_PjfzuSVE5Ue3vgxlTYl10g/edit)
-* [Meeting link](https://meet.google.com/jmn-poqi-evw)
 
 ## Code of Conduct
 Refer to our [Code of Conduct page](https://github.com/konveyor/community/blob/main/CODE_OF_CONDUCT.md) for detailed information
