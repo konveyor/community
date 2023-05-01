@@ -9,6 +9,9 @@ This page is meant to hold community documentation for community members.
 ## Getting Started
 * [Getting Started](gsg.md)
 
+## Charter
+Refer to our [Charter doc](Charter.md) for more information on Konveyor's overall mission and vision
+
 ## Governance
 Refer to our [governance doc](GOVERNANCE.md) for more information.
 
@@ -42,9 +45,17 @@ and [UI](https://github.com/konveyor/community/tree/main/sig-ui).
 
 
 ## Communication
-Konveyor meetup invitations are sent to the [Konveyor mailing list](https://groups.google.com/g/konveyorio).
 
-Community discussions take place on the [Konveyor-community mailing list](https://groups.google.com/g/konveyor-community).
+### Mailing Lists
+ * `konveyorio@googlegroups.com`
+   * Konveyor announcements, meetup invitations, and general information
+     * Subscribe via https://groups.google.com/g/konveyorio
+ * `konveyor-community@googlegroups.com` 
+   * Konveyor community discussions, and the calendar for Konveyor Community meetings
+     * Subscribe via: https://groups.google.com/g/konveyor-community
+ * `konveyor-dev@googlegroups.com` 
+   * Konveyor development related issues and general questions
+     * Subscribe via: https://groups.google.com/g/konveyor-dev 
 
 Each SIG within Konveyor maintains its own mailing list. 
 |SIG |Mailing list|
