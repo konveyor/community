@@ -1,7 +1,7 @@
 name: Generic
 description: Generic issue
 title: "<title>"
-projects: konveyor/67
+projects: ["konveyor/67"]
 body:
 - type: checkboxes
   attributes:
