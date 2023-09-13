@@ -10,6 +10,12 @@ body:
     options:
     - label: I have searched the existing issues
       required: true
+- type: input
+  attributes:
+    label: Konveyor version
+    description: What is the Konveyor version you're using?
+  validations:
+    required: true
 - type: textarea
   attributes:
     label: Current Behavior
@@ -43,8 +49,6 @@ body:
         - **npm**: 7.6.3
     value: |
         - OS:
-        - Node:
-        - npm:
     render: markdown
   validations:
     required: false
