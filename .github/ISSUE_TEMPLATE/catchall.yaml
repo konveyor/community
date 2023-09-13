@@ -9,6 +9,12 @@ body:
     options:
     - label: I have searched the existing issues
       required: true
+- type: input
+  attributes:
+    label: Konveyor version
+    description: What is the Konveyor version you're using?
+  validations:
+    required: false
 - type: textarea
   attributes:
     label: Description
