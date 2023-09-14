@@ -26,7 +26,6 @@ body:
       - Critical
       - Blocker
       - Major
-      - Blocker
       - Minor
       - Undefined (Default)
     default: 5
