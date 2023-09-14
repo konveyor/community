@@ -28,7 +28,7 @@ body:
       - Major
       - Minor
       - Undefined (Default)
-    default: 5
+    default: 0
   validations:
     required: true
 - type: textarea
