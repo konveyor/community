@@ -1,0 +1,30 @@
+name: Generic
+description: Generic issue
+title: "<title>"
+projects: ["konveyor/67"]
+body:
+- type: checkboxes
+  attributes:
+    label: Is there an existing issue for this?
+    description: Please search to see if an issue already exists for the bug you encountered.
+    options:
+    - label: I have searched the existing issues
+      required: true
+- type: input
+  attributes:
+    label: Konveyor version
+    description: What is the Konveyor version you're using?
+  validations:
+    required: false
+- type: textarea
+  attributes:
+    label: Description
+    description: A concise description of what you're experiencing and what needs to be addressed.
+  validations:
+    required: false
+- type: textarea
+  attributes:
+    label: Additional Information
+    description: Any additional information.
+  validations:
+    required: false
