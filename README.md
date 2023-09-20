@@ -23,7 +23,8 @@ Konveyor has two kinds of meetings - User focussed & contributor focussed
 
 **Konveyor Community meeting** is where the User focussed discussions happens. 
 The meeting highlights the enhancements that are in flight, showcases new and upcoming feature demos, 
-and encourages community participation through open discussions.
+and encourages community participation through open discussions. Meetings are recorded and available in 
+this [youtube playlist](https://youtube.com/playlist?list=PL4aUFFbk56EOWBwS9qvEKDn8CAMXDfdw0&si=stYIl0Jcyxr_xTOK)
 
 If you are interested in joining us, please consider joining
 [Konveyor-community mailing list](https://groups.google.com/g/konveyor-community)
@@ -32,6 +33,8 @@ for meeting invites.
 Konveyor community meets bi-weekly on Thursdays.
 * [Agenda](https://docs.google.com/document/d/18vsvW8aO1iJqCXUCi-X2_PjfzuSVE5Ue3vgxlTYl10g/edit)
 * [Meeting link](https://meet.google.com/jmn-poqi-evw)
+
+
 
 ### Konveyor SIG meetings
 
