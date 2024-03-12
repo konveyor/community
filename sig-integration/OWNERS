@@ -1,0 +1,6 @@
+approvers:
+  - sig-integration-leads
+reviewers:
+  - sig-integration-leads
+labels:
+  - sig/integration
