@@ -8,6 +8,14 @@ Konveyor's mission is to establish a community of people passionate about helpin
 The community is focused on building the ultimate Open Source toolkit to help organizations safely migrate and modernize their application portfolio to leverage Kubernetes, providing differential value on each stage of the adoption process
 
 
+## Community Groups
+
+Konveyor project consists of various Special Interest Groups AKA SIGs. Konveyor SIGs are based on Kubernetes SIGs. 
+
+### Special Interest Groups
+
+Each SIG in the Konveyor project pertains to advancing the project in a specific area, like Core components or UI. Each SIG will be led by two or three co-chairs. Initial bootstrapping of the SIGs will be led by a chair appointed by the Konveyor Maintainers. As the members move through the contributor ladder, they will be eligible to be a co-chair after they have been a maintainer for 3-6 months. Konveyor steering committee will vote on the co-chair nominations.  
+
 ## Contributor Participation
 
 Members, Reviewers, and Approvers are defined in the [Konveyor Contributor Ladder](https://github.com/konveyor/community/blob/main/contributor_ladder.md).  
