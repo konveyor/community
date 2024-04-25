@@ -15,4 +15,3 @@ The 0.4 release cycle is as follows:
 * [Selectively run providers](https://github.com/konveyor/enhancements/issues/155)
 * [Multi-Language Support](https://github.com/konveyor/kantra/issues/142)
 * [.NET Analysis Support](https://github.com/konveyor/enhancements/issues/154)
-* [Gradle Support](https://github.com/konveyor/analyzer-lsp/issues/477)
