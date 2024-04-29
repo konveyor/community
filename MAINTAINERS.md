@@ -12,6 +12,7 @@ The initial steering team is bootrapped from the maintainers list below,
 
 ## Maintainers 
 
+* Dylan Murray ([dymurray](https://github.com/dymurray))
 * John Matthews	([jwmatthews](https://github.com/jwmatthews)) 
 * Jonathan Recinos	([JonathanR19](https://github.com/JonathanR19))
 * Ramon Roman Nissen	([rromannissen](https://github.com/rromannissen))
