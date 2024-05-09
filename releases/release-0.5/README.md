@@ -17,3 +17,5 @@ The 0.5 release cycle is as follows:
 * [Multiple Provider Support](https://github.com/konveyor/enhancements/issues/155)
 * [Automatic Language Discovery](https://github.com/konveyor/enhancements/issues/170)
 * [Introductory .NET Rules](https://github.com/konveyor/enhancements/issues/169)
+* [Kantra support for multiple applications](https://github.com/konveyor/kantra/issues/180)
+* [Application Insights](https://github.com/konveyor/enhancements/issues/175)
