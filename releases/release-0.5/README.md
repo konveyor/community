@@ -19,3 +19,4 @@ The 0.5 release cycle is as follows:
 * [Introductory .NET Rules](https://github.com/konveyor/enhancements/issues/169)
 * [Kantra support for multiple applications](https://github.com/konveyor/kantra/issues/180)
 * [Application Insights](https://github.com/konveyor/enhancements/issues/175)
+* [Surface Task Manager](https://github.com/konveyor/enhancements/issues/171)
