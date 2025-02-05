@@ -30,7 +30,7 @@ If you are interested in joining us, please consider joining
 [Konveyor-community mailing list](https://groups.google.com/g/konveyor-community)
 for meeting invites. 
 
-Konveyor community meets every 4 weeks on Thursdays,
+Konveyor community meets every 4 weeks on Thursdays at 12 PM Eastern,
 * [Agenda](https://docs.google.com/document/d/18vsvW8aO1iJqCXUCi-X2_PjfzuSVE5Ue3vgxlTYl10g/edit)
 * [Meeting link](https://meet.google.com/jmn-poqi-evw)
 
