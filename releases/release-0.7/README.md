@@ -6,7 +6,7 @@ The 0.7 release cycle is as follows:
 
 - **Thursday, 20 February 2025**: [Enhancements Freeze](../release_phases.md#enhancements-freeze)
 - **Thursday, 18 March 2025**: [Feature Freeze](../release_phases.md#feature-freeze) (Alpha Release)
-- **Thursday, 1 May 2024**: [v0.7 Release Date](../release_phases.md#release-date)
+- **Thursday, 17 April 2025**: [v0.7 Release Date](../release_phases.md#release-date)
 
 ## Features
 [Enable support for NodeJS and Python in the Hub](https://github.com/konveyor/enhancements/issues/218)
