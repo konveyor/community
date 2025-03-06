@@ -10,6 +10,9 @@ The 0.7 release cycle is as follows:
 
 ## Features
 [Enable support for NodeJS and Python in the Hub](https://github.com/konveyor/enhancements/issues/218)
+
 [Asset generation integration with Kantra](https://github.com/konveyor/enhancements/issues/217)
+
 [Platform discovery integration with Kantra for PCF](https://github.com/konveyor/enhancements/pull/215)
+
 [Upgrade of Keycloak](https://github.com/konveyor/operator/issues/406)
