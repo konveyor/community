@@ -5,7 +5,7 @@ Konveyor is a community of people passionate about helping others modernize and 
 
 ## Governance
 
-konveyor is a federation of sub-projects and as a community, reserves the right of each sub-project to choose their own governance model. For community governance, a representative for each project will be designated to participate in periodic community driven meetings and discussions. This may be quarterly, semi-annual or on an as needed basis.  Additional details will be provided at a future time.
+Konveyor is a federation of sub-projects and as a community, reserves the right of each sub-project to choose their own governance model. For community governance, a representative for each project will be designated to participate in periodic community driven meetings and discussions. This may be quarterly, semi-annual or on an as needed basis.  Additional details will be provided at a future time.
 
 ## Licensing
 
